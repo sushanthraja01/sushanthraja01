@@ -3,6 +3,21 @@
 <!--
 **sushanthraja01/sushanthraja01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+# Hi 👋, I'm Raja Sai Datha Sushanth
+
+## 🚀 About Me
+- 🎓 3rd Year Engineering Student
+- 💻 Interested in Web Development & DSA
+
+## 🛠️ Skills
+- HTML, CSS, JavaScript,React
+- Node.js, Express
+- MongoDB
+- DSA
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
