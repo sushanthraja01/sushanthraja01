@@ -4,7 +4,7 @@
 🚀 B.Tech CSE (3rd Year) | Aspiring Software Engineer  
 
 I’m a passionate developer interested in **Web Development and AI/ML**.  
-I enjoy building real-world applications, especially **inventory systems, billing systems**, and working on **Data Structures & Algorithms** to strengthen my problem-solving skills.
+I enjoy building real-world applications like **Inventory & Billing Systems** and solving **DSA problems** to improve my problem-solving skills.
 
 ---
 
@@ -30,24 +30,28 @@ I enjoy building real-world applications, especially **inventory systems, billin
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sushanthraja01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sushanthraja01&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sushanthraja01&theme=tokyonight&hide_border=false&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushanthraja01&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sushanthraja01&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushanthraja01&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
 # 🚀 Projects:
 - 🧾 Inventory & Billing System (Node.js + MongoDB)
 - 📊 Predictive Analytics Projects (ML)
-- 🌐 Web Applications using MERN Stack
+- 🌐 Full Stack Web Apps (MERN Stack)
 
 ---
 
 # 🏆 Goals:
 - Crack top tech internships (GSoC / Product-based companies)
-- Build scalable full-stack applications
+- Build scalable applications
 - Master DSA & System Design
 
 ---
 
+# 🔥 Profile Views:
 [![](https://visitcount.itsvg.in/api?id=sushanthraja01&icon=0&color=0)](https://visitcount.itsvg.in)
